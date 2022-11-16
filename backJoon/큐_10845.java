@@ -4,11 +4,10 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.util.Arrays;
 
 // 실버 4
 // 자료구조, 큐
-public class 큐 {
+public class 큐_10845 {
     static int[] queue;
     static int front;
     static int back;
