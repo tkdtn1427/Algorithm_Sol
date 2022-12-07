@@ -30,7 +30,7 @@ public class 괄호 {
                 stack.add(str.charAt(i));
             }else{
                 if(stack.isEmpty()) return "NO";
-                stack.remove(stack.size()-1);
+                stack.remove(0);
             }
         }
         if(!stack.isEmpty()) return "NO";

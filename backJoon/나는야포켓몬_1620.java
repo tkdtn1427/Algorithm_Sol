@@ -12,7 +12,6 @@ public class 나는야포켓몬_1620 {
     static Map<Integer, String> map2;
     public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        String pattern = "^[0-9]*$";
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
         StringBuilder sb = new StringBuilder();
 
