@@ -7,7 +7,7 @@ import java.io.OutputStreamWriter;
 
 // 실버3
 // DP
-public class _123더하기 {
+public class _123더하기_9095 {
     static int[] dp;
     public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));;

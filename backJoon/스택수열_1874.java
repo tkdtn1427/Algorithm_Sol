@@ -9,7 +9,7 @@ import java.util.Stack;
 
 // 실버 2
 // 자료구조, 스택
-public class 스택수열 {
+public class 스택수열_1874 {
     public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

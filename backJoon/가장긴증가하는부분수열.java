@@ -36,6 +36,10 @@ public class 가장긴증가하는부분수열 {
 //            if(result < count[i][1]){
 //                result = count[i][1];
 //            }
+//            for(int[] tmp : count){
+//                System.out.println(Arrays.toString(tmp));
+//            }
+//            System.out.println();
 //        }
 //
 //        bw.write(String.valueOf(result));
