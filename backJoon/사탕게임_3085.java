@@ -2,7 +2,6 @@ package backJoon;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 
 public class 사탕게임_3085 {
     static String[][] dp;
