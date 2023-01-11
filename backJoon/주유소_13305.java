@@ -28,6 +28,7 @@ public class 주유소_13305 {
         }
 
         long min = weight[0];
+
         for(int i=0; i<repeat-1; i++){
             min = Math.min(weight[i], min);
             total += min*roads[i];
